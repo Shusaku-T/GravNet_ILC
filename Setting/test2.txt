@@ -1,0 +1,6 @@
+Data Folder :a
+Data File :b
+Output Model Folder :c
+Output Model File :d
+Output Plot Folder :e
+Output Plot File :f

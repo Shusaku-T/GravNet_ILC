@@ -1,0 +1,6 @@
+Data Folder:/gluster/maxi/ilc/tsumura/npz_retagged_doublePG_0207_1/npz_retagged_doublePG_5_com_rename
+Data File:b
+Output Model Folder:c
+Output Model File:/home/tsumura/ILC/GravNet_ILC/pytorch_ILC_PFA/checkpoint/ckpts_gravnet_Feb07_2222_5/ckpt_29_1.pth.tar
+Output Plot Folder:e
+Output Plot File:f
